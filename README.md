@@ -8,3 +8,10 @@
 ## OOP
 - https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124
 - https://sandimetz.com/99bottles
+
+## Databases
+- https://use-the-index-luke.com/
+
+## Teamwork
+- https://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440
+- https://wizardzines.com/zines/manager/
